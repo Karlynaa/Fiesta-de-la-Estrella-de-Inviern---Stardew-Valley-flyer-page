@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Build an Event Flyer Page</title> 
+  <link rel="stylesheet" href="styles.css"> 
+  </head> 
+  
+  <body> 
+    <header> 
+      <img src="https://stardewvalleywiki.com/mediawiki/images/thumb/a/ae/Feast_of_the_Winterstar.png/500px-Feast_of_the_Winterstar.png" alt="Fiesta de la estrella de invierno"> 
+      <h1>Fiesta de la estrella de invierno</h1>
+      <p>Ven a la entrega de regalos secreta, donde un aldeano y tú intercambiaréis un regalo.</p> 
+      </header> 
+      <hr>
+      
+      <main> 
+        <section> 
+          <h2><img class="icon" src="https://stardewvalleywiki.com/mediawiki/images/4/47/Calendar_Flag_Anim.gif" alt="banderita morada stardew"> ¿Cuándo?</h2>
+          <p>La Fiesta de la estrella de invierno tiene lugar el día 25 de cada Invierno.</p>
+          <img class="calendario" src="https://stardewvalleywiki.com/mediawiki/images/5/52/Calendar_Winter_ES.png" alt="calendario invierno Stardew">
+          </section> 
+          
+          <section> 
+            <h2><img class="icon" src="https://stardewvalleywiki.com/mediawiki/images/5/57/Junimo.gif" alt="junimo"> ¿Dónde?</h2> 
+            <p>Debes dirigirte a la plaza de Pueblo Pelícano entre las 9:00 AM y las 2:00 PM. Cuando finalice el festival, aparecerás en tu casa a las 10:00 PM.</p>
+            </section> 
+            
+            <section>
+              <h2><img class="icon" src="https://stardewvalleywiki.com/mediawiki/images/thumb/c/cc/Tree_of_the_Winter_Star.png/36px-Tree_of_the_Winter_Star.png" alt="arbol de navidadr">¿De qué se trata?</h2>
+              <p>El principal evento del festival es una entrega de regalos secreta, donde un aldeano y tú intercambiaréis un regalo. Una semana antes del día 18, el alcalde Lewis enviará una carta para decirte quién es tu amigo secreto. Te darás cuenta quien te entregará un regalo en el festival.</p>
+              </section> 
+              
+              <section> 
+              <h2><img class="icon" src="https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Prismatic_Shard.png/24px-Prismatic_Shard.png" alt="esquirla prismatica">Regalos</h2>
+                <p>El regalo que elijas para tu amigo invisible tendrá un valor 5 veces superior de lo normal en los puntos de amistad. Cuando le hayas dado tu regalo, tu amigo invisible se dará a conocer y te dará tu regalo.</p> 
+                <img src="https://stardewvalleywiki.com/mediawiki/images/thumb/f/f6/Feast_of_the_Winterstar_Secret_Santa.png/800px-Feast_of_the_Winterstar_Secret_Santa.png" alt="intercambio de regalos de la fiesta de la estrella de invierno">
+                </section> 
+                
+                <section> 
+                  <h2><img class="icon" src="https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Cookie.png/32px-Cookie.png" alt="galletas">¿Cómo sé qué regalar?</h2>
+                  <p>Hay muchos tipos de regalos; desde universalmente amados hasta universalmente odiados. Puedes leer más sobre los <a href="https://es.stardewvalleywiki.com/Socializar#Regalos_Universales" target="_blank">Regalos Universales</a> y elegir el que más te guste.</p>
+                  <div class="letters">
+                  <img class="letter" src="https://stardewvalleywiki.com/mediawiki/images/a/ac/Festival_of_the_Winter_Star_letter_ES.png" alt="carta de invitación al festival de la estrella"> 
+                  <img class="letter" src="https://stardewvalleywiki.com/mediawiki/images/d/d8/Festival_of_the_Winter_Star_letter2_ES.png" alt="carta de invitación al festival de la estrella">
+                  </div>
+                  </section>
+
+                   </main>
+                  </body>
+
+</html>
